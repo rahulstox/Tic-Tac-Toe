@@ -1,5 +1,11 @@
-# Tic-Tac-Toe
-# 🪨✂️📄 Rock Paper Scissors - Advanced Web Game
+# Rock Paper Scissor Game
+
+A fun and classic Tic Tac Toe game built using only HTML, CSS, and JavaScript.  
+Play against a friend locally in this lightweight browser game.
+
+✅ Safe  
+📱 Responsive  
+🔒 No user data required  
 
 A modern, stylish, and fully responsive **Rock-Paper-Scissors** game using **HTML**, **CSS**, and **JavaScript**. Play against a computer AI, track your wins, and select between different round formats. The interface features vibrant hand gesture illustrations replacing plain text, giving it a fresh, fun user experience.
 
